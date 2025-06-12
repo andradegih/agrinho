@@ -5,7 +5,7 @@ let y = 300;
 
 function preload() {
   
-  cenario = loadImage('imagem.png');      
+  cenario = loadImage('cenario.png');      
   tartaruga = loadImage('tartaruga.png');  
 }
 
